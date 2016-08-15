@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<minArea>500</minArea>
+<maxArea>20000</maxArea>
+<debugTrack>1</debugTrack>
+<debugBlob>1</debugBlob>
+<showBlobMask>1</showBlobMask>
+<showOutput>1</showOutput>
+</opencv_storage>

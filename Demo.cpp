@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 
   /* Open video file */
   CvCapture *capture = 0;
-  capture = cvCaptureFromAVI("dataset/video3.mpg");
+  capture = cvCaptureFromAVI("dataset/video2.mpg");
   if(!capture){
     std::cerr << "Cannot open video!" << std::endl;
     return 1;
